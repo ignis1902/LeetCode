@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ignis1902/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ignis1902/LeetCode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/ignis1902/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/ignis1902/LeetCode/tree/master/1436-destination-city) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ignis1902/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ignis1902/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ignis1902/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/ignis1902/LeetCode/tree/master/1436-destination-city) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/ignis1902/LeetCode/tree/master/1046-last-stone-weight) |
+## String
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/ignis1902/LeetCode/tree/master/1436-destination-city) |
 <!---LeetCode Topics End-->
