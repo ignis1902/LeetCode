@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ignis1902/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1046-last-stone-weight](https://github.com/ignis1902/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ignis1902/LeetCode/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/ignis1902/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ignis1902/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ignis1902/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ignis1902/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/ignis1902/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
