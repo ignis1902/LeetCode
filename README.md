@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ignis1902/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ignis1902/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ignis1902/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1051-height-checker](https://github.com/ignis1902/LeetCode/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,9 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ignis1902/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ignis1902/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ignis1902/LeetCode/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/ignis1902/LeetCode/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ignis1902/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ignis1902/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ignis1902/LeetCode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ignis1902/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
