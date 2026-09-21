@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ignis1902/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/ignis1902/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/ignis1902/LeetCode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/ignis1902/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ignis1902/LeetCode/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/ignis1902/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ignis1902/LeetCode/tree/master/1051-height-checker) |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/ignis1902/LeetCode/tree/master/1436-destination-city) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ignis1902/LeetCode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ignis1902/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
