@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/ignis1902/LeetCode/tree/master/1436-destination-city) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ignis1902/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ignis1902/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ignis1902/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ignis1902/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ignis1902/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ignis1902/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ignis1902/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/ignis1902/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
