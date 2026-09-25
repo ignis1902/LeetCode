@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ignis1902/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1436-destination-city](https://github.com/ignis1902/LeetCode/tree/master/1436-destination-city) |
+| [1544-make-the-string-great](https://github.com/ignis1902/LeetCode/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ignis1902/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ignis1902/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ignis1902/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/ignis1902/LeetCode/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
