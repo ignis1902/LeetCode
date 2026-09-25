@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ignis1902/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ignis1902/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ignis1902/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/ignis1902/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ignis1902/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Counting Sort
 |  |
@@ -101,15 +102,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ignis1902/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1436-destination-city](https://github.com/ignis1902/LeetCode/tree/master/1436-destination-city) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ignis1902/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ignis1902/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ignis1902/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/ignis1902/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
